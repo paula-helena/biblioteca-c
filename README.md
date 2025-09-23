@@ -14,11 +14,19 @@ Ele permite adicionar e listar livros, sendo a base para implementar estruturas 
 
 Configurações de ambiente
 Criação do repositorio e init
-Criação da função main.c
+Criação da função main.c "Boas-Vindas)
 Compile e Executavel
 Execução no Terminal
 Criação do README
 Primeiros Commits
+
+## Dia 2
+
+Entendimento dos tipos de dados
+Entendimento de entrada de dados (scanf)
+Entendimento de endereço de variável (&)
+Criação função main para entrada de dados de Titulo, Autor, Data de publicação
+
 
 Autor: Paula Helena
 
